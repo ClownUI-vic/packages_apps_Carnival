@@ -94,11 +94,11 @@
             android:defaultValue="true" />
 
         <!-- Colored icons -->
-        <com.clown.settings.preferences.SystemSettingSwitchPreference
+        <!--com.clown.settings.preferences.SystemSettingSwitchPreference
             android:key="statusbar_colored_icons"
             android:title="@string/status_bar_colored_icons_title"
             android:summary="@string/status_bar_colored_icons_summary"
-            android:defaultValue="false" />
+            android:defaultValue="false" />-->
 
         <!-- Network traffic -->
         <Preference
@@ -108,11 +108,11 @@
             android:fragment="com.clown.settings.fragments.statusbar.NetworkTrafficSettings" />
 
         <!-- Notification counter -->
-        <com.clown.settings.preferences.SystemSettingSwitchPreference
+        <!--com.clown.settings.preferences.SystemSettingSwitchPreference
             android:key="statusbar_notif_count"
             android:title="@string/status_bar_notif_count_title"
             android:summary="@string/status_bar_notif_count_summary"
-            android:defaultValue="false" />
+            android:defaultValue="false" />-->
     </PreferenceCategory>
 
     <PreferenceCategory

@@ -142,11 +142,11 @@
             android:defaultValue="2" />
 
         <!-- Floating clear all -->
-        <com.clown.settings.preferences.SystemSettingSwitchPreference
+        <!-- com.clown.settings.preferences.SystemSettingSwitchPreference
             android:key="notification_material_dismiss"
             android:title="@string/quick_settings_floating_clear_all_title"
             android:summary="@string/quick_settings_floating_clear_all_summary"
-            android:defaultValue="false" />
+            android:defaultValue="false" />-->
     </PreferenceCategory>
 
     <PreferenceCategory
